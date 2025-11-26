@@ -113,6 +113,3 @@ This project is free to use for personal and educational purposes.
 👨‍💻 Author
 Kumar Shanu
 Android Developer • Student • Tech Learner
-
-yaml
-Copy code
